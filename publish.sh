@@ -29,3 +29,7 @@ git push -u origin main
 
 # Step 6: Confirm success
 echo "Repository published successfully at $REPO_URL"
+
+# Remote repository details
+origin  https://github.com/ahmedbernawi/fuzzy-robot.git (fetch)
+origin  https://github.com/ahmedbernawi/fuzzy-robot.git (push)
